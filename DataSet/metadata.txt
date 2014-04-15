@@ -1,0 +1,5 @@
+California Road Network's Nodes (Node ID, Longitude, Latitude) cal.cnode
+California Road Network's Edges (Edge ID, Start Node ID, End Node ID, L2 Distance) cal.cedge
+California's Points of Interest With Original Category Name (Category Name, Longitude, Latitude) CA
+California's Points of Interest (Longitude, Latitude, Category ID) caldata
+Merge Points of Interest with Road Network--Map Format calmap.txt
